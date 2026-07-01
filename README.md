@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Tummalapalli</h1>
 <h3 align="center">A passionate Python Developer & Data Analysis Enthusiast from India</h3>
 
-- 🔭 I’m currently working on [VHASS Academy](https://www.vhassacademy.com/)  
 - 📫 How to reach me: **ayush.tummalapalli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,8 +16,6 @@
 <h3 align="left">🌈 Skills</h3>
 
 ### Programming Languages
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ### Frameworks & Tools
