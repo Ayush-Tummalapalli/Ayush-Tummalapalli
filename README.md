@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abdul Basith</h1>
-<h3 align="center">A passionate Full Stack Developer & Data Science Enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Ayush Tummalapalli</h1>
+<h3 align="center">A passionate Python Developer & Data Analysis Enthusiast from India</h3>
 
 - 🔭 I’m currently working on [VHASS Academy](https://www.vhassacademy.com/)  
-- 📫 How to reach me: **basithsd12@gmail.com**
+- 📫 How to reach me: **ayush.tummalapalli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdul-basith-5616282ab" target="blank">
+  <a href="https://www.linkedin.com/in/ayush-tummalapalli-4b2a23316/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/abdul_basith05/" target="blank">
@@ -46,14 +46,14 @@
 
 ## ✨ Other things
 
-- Favorite programming language: C++ 
+- Favorite programming language: Python 
 - Favorite technology: PyTorch, GraphQL,  
-- Interests: Dancing 💃, Skateboarding 🛹
+- Interests: Cricket, Badminton, Movies.
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-basith-5616282ab" target="_blank">
+  <a href="https://www.linkedin.com/in/ayush-tummalapalli-4b2a23316/" target="_blank">
     <img height="32" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/abdul_basith05/" target="_blank">
