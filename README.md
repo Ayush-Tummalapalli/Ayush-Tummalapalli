@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/ayush-tummalapalli-4b2a23316/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/abdul_basith05/" target="blank">
+  <a href="https://leetcode.com/u/ayush_tummalapalli/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
