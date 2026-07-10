@@ -81,6 +81,8 @@ AI-powered IPL Cricket Analytics Platform with interactive dashboards, natural l
 
 **Tech:** Python • Streamlit • Pandas • Plotly • PostgreSQL • Gemini API
 
+Live Link - https://iplytics-tostty6wdsxrbb7jtfp7x9.streamlit.app/
+
 ---
 
 ### 📱 EverClinic
