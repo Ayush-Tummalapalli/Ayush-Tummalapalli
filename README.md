@@ -20,6 +20,7 @@ Passionate about building AI-powered applications, data-driven dashboards, and s
 - 🚀 Built **Progresso** – Full-Stack Project Management Platform
 - 🌱 Currently exploring **Generative AI, Deep Learning & Data Engineering**
 - 📫 Reach me at **ayush.tummalapalli@gmail.com**
+- 👾 Portfolio - https://ayush-tummalapalli.github.io/ayush-portfolio/
 
 ---
 
