@@ -111,6 +111,8 @@ Full-stack Kanban project management platform with authentication, drag-and-drop
 
 🏅 Cisco CCNA – Introduction to Networks
 
+🏅 MongoDB - MongoDB Associate Developer
+
 ---
 
 ## ⚡ Fun Facts
