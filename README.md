@@ -78,6 +78,15 @@ Passionate about building AI-powered applications, data-driven dashboards, and s
 
 # 🚀 Featured Projects
 
+### ✈️ Itinera AI
+AI-powered Travel Planning Platform featuring customizable day-by-day itineraries, real-time multi-currency budget breakdowns, and Gemini AI insights.
+
+**Tech:** React • Next.js 14 • Tailwind CSS • Google Gemini API • LocalStorage • Vercel
+
+Live Link - https://itinera-ai-planner.vercel.app/
+
+---
+
 ### 🏏 IPLytics
 AI-powered IPL Cricket Analytics Platform with interactive dashboards, natural language querying, and Gemini AI insights.
 
