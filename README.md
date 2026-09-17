@@ -5,7 +5,7 @@ AI & Data Analytics Enthusiast | Python Developer
 </h3>
 
 <p align="center">
-Passionate about building AI-powered applications, data-driven dashboards, and scalable software solutions.
+Passionate about building AI-powered applications and scalable software solutions.
 </p>
 
 ---
