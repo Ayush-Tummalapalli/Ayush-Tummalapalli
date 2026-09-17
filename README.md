@@ -15,6 +15,7 @@ Passionate about building AI-powered applications, data-driven dashboards, and s
 - 🎓 B.Tech CSE @ **SRM Institute of Science and Technology**
 - 🌏 Semester Abroad @ **INTI International University, Malaysia**
 - 💼 Former **Salesforce Intern**
+- ✈️ Built **ItineraAI** – AI-powered Smart Travel Planner
 - 🏏 Built **IPLytics** – AI-powered IPL Cricket Analytics Platform
 - 📱 Developed **EverClinic** – Android Clinic Management App
 - 🚀 Built **Progresso** – Full-Stack Project Management Platform
