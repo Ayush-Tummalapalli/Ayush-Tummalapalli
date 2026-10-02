@@ -22,6 +22,7 @@ Passionate about building AI-powered applications and scalable software solution
 - 🌱 Currently exploring **Generative AI, Deep Learning & Data Engineering**
 - 📫 Reach me at **ayush.tummalapalli@gmail.com**
 - 👾 Portfolio - https://ayush-tummalapalli.github.io/ayush-portfolio/
+- 📸 2 Minutes - "About me" - https://drive.google.com/file/d/1_nW8nWI9qAzE6nvdBd4gs9H9teV-CWnY/view?usp=sharing
 
 ---
 
