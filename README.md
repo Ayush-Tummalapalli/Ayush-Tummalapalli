@@ -65,7 +65,6 @@
 
 ### 🤖 Artificial Intelligence & LLMs
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=googlegemini&logoColor=white&style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq_AI-F55036?logo=groq&logoColor=white&style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/Large_Language_Models-00f2fe?style=for-the-badge)
 ![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-9d4edf?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10b981?style=for-the-badge)
@@ -90,7 +89,6 @@
 
 ### 🗄️ Databases & Developer Tooling
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
