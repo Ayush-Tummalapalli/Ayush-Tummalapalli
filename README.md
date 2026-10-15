@@ -104,8 +104,7 @@
 
 - 🛡️ **Google Cybersecurity Professional Certificate** — Google / Coursera
 - 🌐 **Cisco CCNA: Introduction to Networks** — Cisco Networking Academy
-- ☁️ **AWS Cloud Practitioner Essentials** — Amazon Web Services (AWS)
-- 📱 **Mobile App Development with Android (Kotlin)** — Industry Certified
+- ☁️ **MongoDB Associate Developer** — MongoDB
 
 ---
 
