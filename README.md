@@ -12,6 +12,14 @@ Passionate about building AI-powered applications and scalable software solution
 
 ## 👨‍💻 About Me
 
+What Makes Me Extraordinary?
+
+
+I turn genuine interests and real-world problems into useful digital products.
+I start with a question that matters to a real user,
+I understand the details before shaping a solution,
+I keep refining until the outcome becomes useful.
+
 - 🎓 B.Tech CSE @ **SRM Institute of Science and Technology**
 - 🌏 Semester Abroad @ **INTI International University, Malaysia**
 - 💼 Former **Salesforce Intern**
