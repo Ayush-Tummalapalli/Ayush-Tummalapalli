@@ -106,16 +106,6 @@
 - 🌐 **Cisco CCNA: Introduction to Networks** — Cisco Networking Academy
 - ☁️ **MongoDB Associate Developer** — MongoDB
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Tummalapalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f17&title_color=00f2fe&text_color=94a3b8&icon_color=9d4edf" alt="Ayush's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Tummalapalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f17&title_color=00f2fe&text_color=94a3b8" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ## ⚡ Interests & Fun Facts
 
