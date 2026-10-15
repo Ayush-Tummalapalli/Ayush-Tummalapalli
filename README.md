@@ -16,6 +16,7 @@ What Makes Me Extraordinary?
 
 
 I turn genuine interests and real-world problems into useful digital products.
+
 I start with a question that matters to a real user,
 I understand the details before shaping a solution,
 I keep refining until the outcome becomes useful.
