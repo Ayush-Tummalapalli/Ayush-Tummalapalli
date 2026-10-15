@@ -54,8 +54,8 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **Itinera AI** | Intelligent day-by-day travel itinerary generator with serverless API proxy & multi-currency converter | Next.js, React, Tailwind CSS, Groq Llama 3.3 70B, Gemini API, Vercel | [🌐 Live Demo](https://itinera-ai-planner.vercel.app/) · [💻 Source](https://github.com/Ayush-Tummalapalli/itenera_ai) |
-| **IPLytics** | AI-powered cricket analytics platform with natural language querying and interactive dashboards | Python, Streamlit, Gemini API, Plotly, PostgreSQL | [🌐 Live Demo](https://iplytics-tostty6wdsxrbb7jtfp7x9.streamlit.app/) · [💻 Source](https://github.com/Ayush-Tummalapalli/IPLytics) |
+| **Itinera AI** | Intelligent day-by-day travel itinerary generator with serverless API proxy & multi-currency converter | Next.js, React, Tailwind CSS, Groq Llama 3.3 70B, Gemini API, Vercel | [🌐 Live](https://itinera-ai-planner.vercel.app/) · [💻 Source](https://github.com/Ayush-Tummalapalli/itenera_ai) |
+| **IPLytics** | AI-powered cricket analytics platform with natural language querying and interactive dashboards | Python, Streamlit, Gemini API, Plotly, PostgreSQL | [🌐 Live](https://iplytics-tostty6wdsxrbb7jtfp7x9.streamlit.app/) · [💻 Source](https://github.com/Ayush-Tummalapalli/IPLytics) |
 | **Dental Age & Gender Estimation** | Machine learning model estimating human age and gender from dental radiograph biometric features | Python, Computer Vision, Deep Learning, NumPy, Pandas | [💻 Source](https://github.com/Ayush-Tummalapalli/Dental-Age-Gender-Estimation) |
 | **EverClinic** | Native Android clinic management system for patient appointments, doctor allocation, and medical records | Kotlin, Android Studio, SQLite, Material Design 3 | [💻 Source](https://github.com/Ayush-Tummalapalli/EverClinic) |
 
