@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://ayush-tummalapalli.github.io/ayush-portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/ayushtummalapalli/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ayush-tummalapalli-4b2a23316/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ayush.tummalapalli@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://ayush-tummalapalli.github.io/ayush-portfolio/Ayush_Tummalapalli_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-9d4edf?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
 </p>
